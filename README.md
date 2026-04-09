@@ -25,11 +25,7 @@ The Kinetic Gallery is designed to redefine digital connections through a "galle
     * Custom ClipRRect and BoxDecorations
     * Linear Gradients for high-end aesthetics
 
-## 📸 Screen Previews
 
-| Discover | Explore | Chat List | Profile |
-| :--- | :--- | :--- | :--- |
-| ![Discover Screen](https://picsum.photos/id/64/200/400) | ![Explore Screen](https://picsum.photos/id/43/200/400) | ![Chat Screen](https://picsum.photos/id/177/200/400) | ![Profile Screen](https://picsum.photos/id/237/200/400) |
 
 ## 🏗️ Project Structure
 
